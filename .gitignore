@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/teshca-dotnet-csharp-servicefabric/v15
+/Stateful1/bin/x64/Debug
+/Stateful1/obj/x64/Debug
+/Stateless1/bin/x64/Debug
+/Stateless1/obj/x64/Debug
+/teshca-dotnet-csharp-servicefabric/obj/x64/Debug
+/teshca-dotnet-csharp-servicefabric/pkg/Debug
+/packages
